@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [Link to Google](https://www.google.com)
 
 <!--
 **mansicoder/mansicoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
