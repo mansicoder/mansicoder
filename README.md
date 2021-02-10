@@ -6,7 +6,8 @@ Here are some ideas to get you started:-->
 <h1>hello</h1>
  
 <h1>Welcome to my Profile</h2>
-[Lets go to Quora](https://www.quora.com)
+[Lets go to Quora](https://www.quora.com);
+
 - 🔭 I’m currently working on **Exploring different domains**...
 - 🌱 I’m currently learning **Web Development**...
 - 👯 I’m looking to collaborate on **Beginners level project**...
