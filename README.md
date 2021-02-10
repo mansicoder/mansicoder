@@ -4,7 +4,7 @@
 **mansicoder/mansicoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 <h1>hello</h1>
-[everyone]("https://www.google.com/"); 
+ 
 <h1>Welcome to my Profile</h2>
 - 🔭 I’m currently working on **Exploring different domains**...
 - 🌱 I’m currently learning **Web Development**...
